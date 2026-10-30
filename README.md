@@ -82,7 +82,7 @@ File	Purpose
 [`WRITEUP.md`](WRITEUP.md)	Answers to the five design questions, scoring assumptions, and safeguards
 [`PROMPTS.md`](PROMPTS.md)	Six criterion-specific AI evidence-extraction prompts
 [`ranking.json`](ranking.json)	Machine-readable provisional ranking for proposals A–E
-[`diagram/architecture.png`](diagram/architecture.png)	System architecture diagram
+[`diagram/flowchart.png`](diagram/flowchart.png)	System architecture diagram
 
 
 AI-use disclosure
